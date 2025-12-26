@@ -15,7 +15,16 @@
       margin: 0 auto;
       padding: 40px 40px 80px 40px;
       background: #f7f7f7;
-      background-image: linear-gradient(45deg, rgba(0,0,0,0.02) 25%, transparent 25%, transparent 50%, rgba(0,0,0,0.02) 50%, rgba(0,0,0,0.02) 75%, transparent 75%, transparent);
+      background-image: linear-gradient(
+        45deg,
+        rgba(0,0,0,0.02) 25%,
+        transparent 25%,
+        transparent 50%,
+        rgba(0,0,0,0.02) 50%,
+        rgba(0,0,0,0.02) 75%,
+        transparent 75%,
+        transparent
+      );
       background-size: 40px 40px;
     }
 
@@ -77,6 +86,7 @@
     }
   </style>
 </head>
+
 <body>
   <div class="page">
     <header>
@@ -84,10 +94,10 @@
         <h1>Zakirullah</h1>
         <div class="contact">
           Department of Mathematics and Statistics<br />
-          University of Helsinki, FIN‑00014 Finland<br /><br />
+          University of Helsinki, FIN-00014 Finland<br /><br />
           Postal address: P.O. Box 68 (Pietari Kalmin katu 5)<br />
           Office: Kumpula campus, Exactum, room A405<br />
-          Phone: +358‑50‑4480‑277<br />
+          Phone: +358-50-4480-277<br />
           eva.kisdi [at] helsinki.fi
         </div>
       </div>
@@ -99,12 +109,13 @@
     <section>
       <h2>Research</h2>
       <p>
-        I am a mathematical ecologist with interest in <a href="#">adaptive dynamics</a>,
-        speciation, evolutionary epidemiology, spatial ecology and life histories.
+        I am a mathematical ecologist with interest in
+        <a href="#">adaptive dynamics</a>, speciation, evolutionary epidemiology,
+        spatial ecology and life histories.
       </p>
 
       <p>
-        ORCID ID: <a href="#">0000‑0002‑7096‑4222</a>
+        ORCID ID: <a href="#">0000-0001-8916-6717</a>
       </p>
 
       <ul>
@@ -114,6 +125,21 @@
         <li>Editor of <em>Evolutionary Ecology Research</em> (2004–)</li>
         <li>Reviewing Editor of the <em>Journal of Evolutionary Biology</em> (2006–2009)</li>
         <li>Secretary of the European Society for Mathematical and Theoretical Biology (2006–2011)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li>
+          <strong>Master of Science in Mathematics</strong><br />
+          University of Electronic Science and Technology of China (UESTC)<br />
+          15/09/2022 – 15/07/2024<br />
+          City: Chengdu | Country: China<br />
+          Website:
+          <a href="https://www.uestc.edu.cn/">https://www.uestc.edu.cn/</a><br />
+          Field of study: Mathematics
+        </li>
       </ul>
     </section>
 
@@ -141,24 +167,21 @@
       <h2>Selected Publications</h2>
       <ul>
         <li>
-          Zakirullah. Measles disease spread and control via vaccination and treatment: A mathematical framework.
+          Zakirullah. Measles disease spread and control via vaccination and treatment:
+          A mathematical framework.
           <em>Chaos, Solitons & Fractals</em>, Vol 203, 2026.
           <a href="https://doi.org/10.1016/j.chaos.2025.117703">DOI</a>
-          <a href="m.pdf" class="pdf-link">PDF</a>
+          <a href="m.pdf">PDF</a>
         </li>
         <li>
-          Zakirullah, Lu, C., Li, L. et al. Mathematical insights into chaos in fractional-order fishery model.
+          Zakirullah, Lu, C., Li, L. et al. Mathematical insights into chaos in
+          fractional-order fishery model.
           <em>Model. Earth Syst. Environ.</em> 11, 201 (2025).
           <a href="https://doi.org/10.1007/s40808-025-02375-2">DOI</a>
-          <a href="k.pdf" class="pdf-link">PDF</a>
+          <a href="k.pdf">PDF</a>
         </li>
         <li>
-          Zakirullah. Using treatment and vaccination strategies to investigate transmission dynamics of influenza mathematical model.
+          Zakirullah. Using treatment and vaccination strategies to investigate
+          transmission dynamics of influenza mathematical model.
           <em>Ain Shams Engineering Journal</em>, 16(9).
-          <a href="https://doi.org/10.1016/j.asej.2025.103519">DOI</a>
-        </li>
-      </ul>
-    </section>
-  </div>
-</body>
-</html>
+          <a href="https://doi.org/10.1016/j
