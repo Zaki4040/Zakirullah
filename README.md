@@ -114,7 +114,7 @@
       <h2>Research</h2>
       <p>
         I am a biomathematician with research interests in
-        <a href="#">dynamical systems</a>, ordinary and partial differential equations (ODEs and PDEs),
+        dynamical, ordinary and partial differential equations (ODEs and PDEs),
         mathematical modelling, infectious disease and phage dynamics, and fishery models,
         with a focus on qualitative and quantitative analysis.
       </p>
