@@ -131,6 +131,17 @@
     <section>
       <h2>Education</h2>
       <ul>
+    <li>
+      <strong>Master of Science in Mathematics</strong><br />
+      University of Electronic Science and Technology of China (UESTC)<br />
+      15/09/2022 – 15/07/2024<br />
+      City: Chengdu | Country: China<br />
+      Website:
+      <a href="https://www.uestc.edu.cn/">https://www.uestc.edu.cn/</a><br />
+      Field of study: Mathematics
+    </li>
+  </ul>
+      <ul>
         <li>
           <strong>B.Sc in Mathematics</strong><br />
           University of Malakand, Lower Dir<br />
