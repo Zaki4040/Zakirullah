@@ -299,7 +299,6 @@
       2(3), 2021.
       <a href="https://doi.org/10.48185/jmam.v2i3.347" target="_blank">DOI</a>
     </li>
-
   </ul>
 </section>
 
