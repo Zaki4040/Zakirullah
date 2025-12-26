@@ -2,73 +2,69 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <title>Zakirullah | Academic Homepage</title>
+  <title>Zakirullah – Academic Homepage</title>
   <style>
     body {
       margin: 0;
-      padding: 0;
       font-family: Georgia, "Times New Roman", serif;
       background: #f3f3f3;
-      color: #333;
     }
-    
+
     .page {
-      max-width: 900px; /* Narrower width is often more readable for academic sites */
-      margin: 20px auto;
-      padding: 40px;
-      background: #ffffff;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 40px 80px 40px;
+      background: #f7f7f7;
+      background-image: linear-gradient(45deg, rgba(0,0,0,0.02) 25%, transparent 25%, transparent 50%, rgba(0,0,0,0.02) 50%, rgba(0,0,0,0.02) 75%, transparent 75%, transparent);
+      background-size: 40px 40px;
     }
 
     header {
       display: grid;
       grid-template-columns: 1fr 180px;
-      gap: 30px;
-      align-items: center;
+      gap: 40px;
+      align-items: start;
     }
 
     h1 {
       font-size: 36px;
       margin: 0 0 10px 0;
       font-weight: normal;
-      color: #000;
     }
 
     .contact {
-      font-size: 15px;
+      font-size: 14px;
       color: #444;
-      line-height: 1.6;
+      line-height: 1.5;
     }
 
     .photo img {
       width: 180px;
-      height: auto;
-      border-radius: 4px;
-      border: 1px solid #ddd;
+      border-radius: 2px;
     }
 
     section {
-      margin-top: 40px;
+      margin-top: 50px;
     }
 
     section h2 {
-      font-size: 24px;
+      font-size: 26px;
       font-weight: normal;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 8px;
-      margin-bottom: 15px;
-      color: #222;
+      border-bottom: 1px solid #aaa;
+      padding-bottom: 6px;
+      margin-bottom: 20px;
     }
 
-    p, li {
+    p {
+      max-width: 900px;
       line-height: 1.6;
       font-size: 16px;
-      margin-bottom: 12px;
     }
 
     ul {
-      padding-left: 20px;
+      max-width: 900px;
+      font-size: 15px;
+      line-height: 1.6;
     }
 
     a {
@@ -79,31 +75,6 @@
     a:hover {
       text-decoration: underline;
     }
-
-    .pdf-link {
-      font-size: 12px;
-      color: #666;
-      margin-left: 10px;
-      border: 1px solid #ccc;
-      padding: 2px 6px;
-      border-radius: 3px;
-      text-transform: uppercase;
-    }
-
-    /* Mobile View Optimization */
-    @media (max-width: 600px) {
-      header {
-        grid-template-columns: 1fr;
-        text-align: center;
-      }
-      .photo {
-        grid-row: 1; /* Move photo to top on mobile */
-      }
-      .page {
-        padding: 20px;
-        margin: 0;
-      }
-    }
   </style>
 </head>
 <body>
@@ -113,45 +84,77 @@
         <h1>Zakirullah</h1>
         <div class="contact">
           Department of Mathematics and Statistics<br />
-          University of Electronic Science and Technology of China<br />
-          <strong>Phone:</strong> +(86) 18382130061<br />
-          <strong>Email:</strong> <a href="mailto:zakirullahbzt@gmail.com">zakirullahbzt@gmail.com</a>
+          University of Helsinki, FIN‑00014 Finland<br /><br />
+          Postal address: P.O. Box 68 (Pietari Kalmin katu 5)<br />
+          Office: Kumpula campus, Exactum, room A405<br />
+          Phone: +358‑50‑4480‑277<br />
+          eva.kisdi [at] helsinki.fi
         </div>
       </div>
       <div class="photo">
-        <img src="profile.jpg" alt="Portrait of Zakirullah" />
+        <img src="profile.jpg" alt="Portrait photo" />
       </div>
     </header>
 
     <section>
       <h2>Research</h2>
       <p>
-        I am a mathematical ecologist with interests in <strong>adaptive dynamics</strong>,
-        speciation, evolutionary epidemiology, spatial ecology, and life histories.
+        I am a mathematical ecologist with interest in <a href="#">adaptive dynamics</a>,
+        speciation, evolutionary epidemiology, spatial ecology and life histories.
       </p>
+
       <p>
-        <strong>ORCID:</strong> <a href="https://orcid.org/0000-0001-8916-6717" target="_blank">0000-0001-8916-6717</a>
+        ORCID ID: <a href="#">0000‑0002‑7096‑4222</a>
       </p>
+
+      <ul>
+        <li>Associate Editor of <em>The American Naturalist</em> (2021–)</li>
+        <li>Associate Editor of <em>Evolution</em> (2014–2016, 2018–2020)</li>
+        <li>Associate Editor of <em>Theoretical Population Biology</em> (2009–)</li>
+        <li>Editor of <em>Evolutionary Ecology Research</em> (2004–)</li>
+        <li>Reviewing Editor of the <em>Journal of Evolutionary Biology</em> (2006–2009)</li>
+        <li>Secretary of the European Society for Mathematical and Theoretical Biology (2006–2011)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Teaching</h2>
+      <p>
+        I value good teaching as much as good research, if not more. I have lectured on
+        mathematical modelling, theoretical ecology, mathematical epidemiology,
+        evolutionary biology, population genetics and quantitative genetics.
+      </p>
+
+      <ul>
+        <li>Introduction to Mathematical Biology</li>
+        <li>Introduction to Mathematical Ecology I–II</li>
+        <li>Mathematical Methods in Biology</li>
+        <li>Spatial Models in Ecology and Evolution</li>
+        <li>Mathematics of Infectious Diseases</li>
+        <li>Speciation Theory</li>
+        <li>Differential Equations</li>
+        <li>Probability Calculus</li>
+      </ul>
     </section>
 
     <section>
       <h2>Selected Publications</h2>
       <ul>
         <li>
-          Zakirullah. Measles disease spread and control via vaccination and treatment: A mathematical framework. 
-          <em>Chaos, Solitons & Fractals</em>, Vol 203, 2026. 
+          Zakirullah. Measles disease spread and control via vaccination and treatment: A mathematical framework.
+          <em>Chaos, Solitons & Fractals</em>, Vol 203, 2026.
           <a href="https://doi.org/10.1016/j.chaos.2025.117703">DOI</a>
           <a href="m.pdf" class="pdf-link">PDF</a>
         </li>
         <li>
-          Zakirullah, Lu, C., Li, L. et al. Mathematical insights into chaos in fractional-order fishery model. 
-          <em>Model. Earth Syst. Environ.</em> 11, 201 (2025). 
+          Zakirullah, Lu, C., Li, L. et al. Mathematical insights into chaos in fractional-order fishery model.
+          <em>Model. Earth Syst. Environ.</em> 11, 201 (2025).
           <a href="https://doi.org/10.1007/s40808-025-02375-2">DOI</a>
           <a href="k.pdf" class="pdf-link">PDF</a>
         </li>
         <li>
-          Zakirullah. Using treatment and vaccination strategies to investigate transmission dynamics of influenza mathematical model. 
-          <em>Ain Shams Engineering Journal</em>, 16(9). 
+          Zakirullah. Using treatment and vaccination strategies to investigate transmission dynamics of influenza mathematical model.
+          <em>Ain Shams Engineering Journal</em>, 16(9).
           <a href="https://doi.org/10.1016/j.asej.2025.103519">DOI</a>
         </li>
       </ul>
