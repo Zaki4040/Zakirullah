@@ -151,7 +151,6 @@
           <a href="https://www.uom.edu.cn/" target="_blank">https://www.uom.edu.cn/</a><br />
           Field of study: Mathematics
         </li>
-
         <li>
           <strong>B.Sc in Double Mathematics & Physics</strong><br />
           University of Swat<br />
