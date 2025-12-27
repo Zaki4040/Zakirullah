@@ -232,13 +232,12 @@
   <ul>
 
     <li>
-      <strong>Zakirullah</strong>.
-      Measles disease spread and control via vaccination and treatment:
-      A mathematical framework.
-      <em>Chaos, Solitons & Fractals</em>,
-      Volume 203, 2026.
-      <a href="https://doi.org/10.1016/j.chaos.2025.117703" target="_blank">DOI</a>
-    </li>
+  Zakirullah. Measles disease spread and control via vaccination and treatment: A mathematical framework.
+  <em>Chaos, Solitons & Fractals</em>, Volume 203, February 2026, 117703.
+  <a href="https://doi.org/10.1016/j.chaos.2025.117703">DOI</a>
+  &nbsp;|&nbsp;
+  <a href="1-s2.0-S0960077925017163-main.pdf">PDF</a>
+</li>
     
     <li>
       <strong>Zakirullah</strong>, Li, L., Shah, K., Abdalla, B., Abdeljawad, T.
